@@ -1,4 +1,4 @@
-CSS3 basics
+purely CSS3 basics with no JS 
 
 This does not contain neither transistions and animations nor advance layouts like
 
@@ -12,3 +12,5 @@ This includes:
 2.styling tables
 3.pseudo classes
 4.float and clear properties
+
+*** not a Responsive Design ***
